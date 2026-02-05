@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_metafictional_exile_diaspora",
+  "title": "The Unlucky: A Massilian Exile",
+  "tagline": "A disgraced Roman senator seeks meaning in a Greek philosopher's library, only to find his own story already written in the margins.",
+  "target_words": 70000,
+  "actual_words": 74898,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Boredom of Exile",
+    "Text as Identity and Weapon",
+    "The Diaspora of the Disgraced",
+    "Philosophy as a Mirror for Politics"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain in Massilia",
+      "words": 3120
+    },
+    {
+      "ch": 2,
+      "title": "The Scriptorium of Gallus",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Fortress of Papyrus",
+      "words": 2800
+    },
+    {
+      "ch": 4,
+      "title": "The First Lesson: Pindar's Ghost",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "A Letter from Rome",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "The Peripatetic Argument",
+      "words": 3050
+    },
+    {
+      "ch": 7,
+      "title": "The General's Shadow",
+      "words": 3350
+    },
+    {
+      "ch": 8,
+      "title": "The Codex in the Corner",
+      "words": 3250
+    },
+    {
+      "ch": 9,
+      "title": "Echoes in the Text",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Scandal of the Statue",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "Composing a Reply",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Magistrate's Invitation",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "Symposium of the Unwanted",
+      "words": 3600
+    },
+    {
+      "ch": 14,
+      "title": "The Poem Recited",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "A Visitor from the Docks",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Library at Night",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "Ariston's Hypothesis",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "The Fire in the Scriptorium",
+      "words": 3700
+    },
+    {
+      "ch": 19,
+      "title": "Choosing Sides in Ink",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "The New Poem",
+      "words": 3400
+    },
+    {
+      "ch": 21,
+      "title": "Dispatching the Codex",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The Price of a Future",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Last Walk",
+      "words": 2750
+    },
+    {
+      "ch": 24,
+      "title": "The Grey Mouth of the Sea",
+      "words": 2988
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'lost' satirical poem by Aulus that caused his exile, full of Roman inside jokes and sharp metaphors.",
+      "Compose a letter from Aulus's wife in Rome, revealing her true reasons for staying and her view of his 'indiscretion'.",
+      "Detail a philosophical dialogue between Aulus and Ariston on whether exile clarifies or corrupts a man's character.",
+      "Describe the contents and origin of the mysterious codex Aulus finds, a text that seems to mirror his own fate."
+    ],
+    "technical": [
+      "Build a digital 'Palimpsest Reader' that allows users to layer and toggle between different versions of a text (e.g., Aulus's original poem, the official charge, his later reflections).",
+      "Create an interactive map of Massilia circa 180 AD, tagging locations from the novel (Aulus's room, Gallus's scriptorium, Ariston's tower) with excerpts and historical context."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ovid",
+      "Italo Calvino",
+      "Thucydides",
+      "Zadie Smith"
+    ]
+  },
+  "cover_prompt": "A disgraced Roman senator, his face etched with weary intellect and the shadow of lost power, traces a line of Greek text in a scroll's margin with a calloused finger, his expression shifting from scholarly focus to dawning, profound horror, [within the vast, silent interior of a Hellenistic library in Massilia, stone shelves overflowing with papyrus scrolls and codices, dust motes dancing in slanted light, the senator's simple exile tunic contrasting with the grandeur of forgotten knowledge], in the atmospheric style of Anselm Kiefer's textured, historical palimpsests and the classical solemnity of Jacques-Louis David, evoking layered history and psychological depth, [book cover framing, centered composition with the senator as the focal point amidst the textual chaos, a low-angle shot emphasizing the towering shelves to create a feeling of being overwhelmed by history], [dramatic chiaroscuro lighting with a single strong light source cutting through the library gloom, casting long shadows and illuminating the dust and parchment, color palette of aged papyrus yellows, burnt umber, deep charcoal, and accents of faded vermilion and Egyptian blue], masterpiece, best quality, ultra detailed, intricate details of parchment texture, carved wood, and woven fabric, professional composition, sharp focus, 8k resolution, flux dev."
+}
