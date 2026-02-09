@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The rain in Massilia was a different animal. In Rome, rain was an interruption, a civic nuisance to be channeled away by brilliant, indifferent engineering. Here, at the ragged edge of the world, it was a presence. It didn’t fall; it arrived from the grey mouth of the sea, a wet, salt-laced gossip that whispered against the tile roofs and plaster walls of my rented room, finding every crack, carrying with it the smell of wet pine from the hills and the distant, iron tang of the docks.
 
@@ -92,7 +94,9 @@ I sat on the cold floor and pulled the first scroll toward me. The papyrus was b
 
 The rain beat softly on the high, narrow windows. Ariston muttered to himself, pulling a volume from a shelf. I took a deep breath of the dry, scholarly air, and for the first time since the litter had carried me out of the Servian Wall, I had a task that did not involve contemplating the ruins of my own life. I began to read, to sort, to mend. The silence in the tower was not empty. It was filled with the ghosts of a thousand other voices, and for now, that was company enough.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The days developed a new anatomy. Mornings belonged to the damp gloom of my room and the composition of more unsent letters. Afternoons, from the third hour until dusk, belonged to the tower.
 
@@ -196,7 +200,9 @@ I did not go back to my room. I walked to the sea wall and watched the grey wate
 
 I was not yet doing any of those things. I was waiting. And in Rome, they were not waiting. They were building, conspiring, becoming. The tension was no longer just within me, between past and present. It was a thread, thin and strong as a harp string, stretched taut across the sea between this rocky shore and the Palatine Hill, and someone in Rome was plucking it, sending a vibration of fresh malice all the way to my feet.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The rains returned with a vengeance, turning the streets of Massilia into cascades of muddy runoff. The tower library became a true refuge, its dry air and the soft, perpetual rustle of papyrus a barrier against the world’s damp chaos. My work for Ariston had evolved. I was now cataloguing his correspondence, a tangled web of letters from scholars in Alexandria, Ephesus, even as far as Bithynia. They wrote of disputed manuscript readings, of astronomical observations, of the petty academic rivalries that spanned the empire. It was a republic of letters, borderless and obsessive. I felt like a scribe in a kingdom of ghosts, but they were lively ghosts.
 
@@ -304,11 +310,13 @@ We left, Borix babbling thanks, tears in his eyes. Outside in the dripping court
 
 He turned and began walking up the hill, a small
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The rain in Massilia had not ceased, but it had changed its tune. It was no longer a gossiping arrival; it was a patient, percussive drumming on the roof-tiles, a sound that measured time in drips and puddles. It spoke of persistence, of a world that would not be dried by a single sun. In the scriptorium of Ariston’s warehouse, the air was thick with the smell of damp papyrus, cedar oil, and the faint, ever-present ghost of salt. I was no longer writing letters I would not send. I was learning to read the ones that had been received.
 
@@ -319,10 +327,7 @@ The scrolls before me were not philosophy or poetry. They were manifests, bills 
 This was my first trial: to learn the new grammar of this world. In Rome, power was written in edicts and senatorial decrees, its language clean, its violence legible and often spectacular. Here, power was written in cargo lists. A “lost” shipment of Lybian sesame oil here. An “excessive” tariff on Corinthian bronze there. A ship from a certain navicularius in Italia detained for “hull inspections” for a week, spoiling its hold of perishable figs. It was a violence of attrition, of a thousand small, plausible thefts. It was bureaucracy as a blunt instrument.
 
 I worked through the days, the cheap bone stylus in my hand replaced by a sharpened reed pen. I compiled lists of names: ship captains who appeared too often in dispute records, customs clerks whose signatures coincided with unusual “damage assessments,” junior officials in the Procurator’s officium who had suddenly acquired new townhouses in the hills. It was tedious, eye-straining work. And it was a revelation. Each notation was a move in a game of petteia I was only beginning to see. I was learning the board.
-
-  
-
-Scene 1
+  - Scene 1
 
 My second trial was physical, and it arrived in the form of Kallas.
 
@@ -343,10 +348,7 @@ It was a small thing, coiling a line. But it was the essence of the place. Rome 
 Kallas spat into the water. “Better. Tomorrow, knots. Then, how to spot a rotten cask without broaching it. A man who knows letters but not cargo is a man who can be lied to with numbers.”
 
 It was a different kind of literacy. The scrolls told me the theory of Ferox’s predation; the docks taught me its practice. I learned how a customs seal could be broken and re-set with a hot knife and a steady hand. How a declared weight could be fudged by soaking certain goods in seawater before the scales. I learned the silent language of the stevedores—a glance, a shifted foot, a particular call—that signaled the arrival of the Procurator’s men. I was learning the rules not of the Roman world, but of the world that lived in its shadowed seams.
-
-  
-
-Scene 2
+  - Scene 2
 
 The alliance was not formalized. It was built in shared silence and the exchange of small, necessary truths.
 
@@ -365,10 +367,7 @@ We did not speak of trust. We spoke of efficiency. We agreed to exchange copies 
 “They will rob you because you are an exile,” she said one evening as we parted, the rain making jewels in her tightly-bound hair. “They will rob me because I am Punic, and a woman. Their contempt is our cover. They do not look too closely at the shadows where the dispossessed gather.”
 
 It was not friendship. It was something harder and more durable: a coalition of the plundered.
-
-  
-
-Scene 3
+  - Scene 3
 
 The wolf’s jackal came for me at the baths.
 
@@ -391,10 +390,7 @@ The threat was exquisitely crafted. It praised me while outlining the bounds of 
 “Does it?” Gallus smiled, a thin stretching of lips. “Sometimes too much clarity can be dazzling. Hurt the eyes. A man can stumble.” He stood up, his soft body pale in the humid air. “The Procurator also believes in second chances. For those who know their place. Your place, now, is with scrolls. Not with ship captains and cargo masters. Keep your clarity confined to parchment, Roman. The world outside the archive is full of such confusing… shadows.”
 
 He padded away, leaving a chill that the warm air could not dispel. The message was direct, personal, and unmistakable. Ferox’s influence was not just a set of corrupt practices; it was a living will, and it had just taken my name into account. I was no longer an anonymous exile. I was a piece on the board that had been noted, and warned.
-
-  
-
-Scene 4
+  - Scene 4
 
 Our minor setback was a ledger book. Elissa’s ledger book.
 
@@ -420,11 +416,13 @@ I looked at the dirty ledger in Kallas’s hands. It was no longer proof. It was
 
 The hook for the next chapter was the sound of a key turning in a heavy lock, echoing from the direction of the city’s carcer. It was the sound of a coalition broken, of a thread snapped. And it was followed by a harder, more urgent truth: to get her out, and to strike back, we would need to recruit a kind of person I had spent my former life condemning. We would need to step off the board of bureaucracy and into the alleyways where the game was played with knives and whispered passwords. The rain on the tiles now sounded like a countdown.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The silence in the scriptorium after Kallas left was a thick, woolen thing, muffling the ever-present gossip of the rain. The ledger book lay on the table between us, its stained leather cover a dead animal. It was no longer a key; it was a corpse, and we were its mourners. Ariston had not spoken. He stood at the small, high window, his back to the room, a silhouette against the bruised Massilian dawn. His stillness was not contemplation. It was the rigid silence of a man recalculating the worth of an investment that had just turned to ash.
 
@@ -463,8 +461,7 @@ I looked at the strongbox under Ariston’s desk. Our war chest, meant for bribi
 “What promise?”
 
 Ariston’s smile was thin, a crack in stone. “A statesman’s promise. The kind that is made before the action and forgotten after the result. We will worry about that when she is free. If we survive the asking.”
-
-The Lipara district did not welcome; it absorbed. The journey was a descent, not in elevation, but in substance. The clean, salt-rot smell of the docks gave way to the cloying, animal stench of curing hides, a smell so thick it felt like a layer on the tongue. The rain here was not a gossip; it was a collaborator, washing the district’s filth into open gutters that steamed faintly in the cool air. The buildings leaned together as if sharing secrets, their upper floors nearly meeting, shutting out the grey light. Rome had its slums, its Subura, but they teemed with a violent, familiar life. This was different. This was a place of quiet extrusion, where people were a byproduct of the industry, their faces closed and smudged with more than dirt.
+  - The Lipara district did not welcome; it absorbed. The journey was a descent, not in elevation, but in substance. The clean, salt-rot smell of the docks gave way to the cloying, animal stench of curing hides, a smell so thick it felt like a layer on the tongue. The rain here was not a gossip; it was a collaborator, washing the district’s filth into open gutters that steamed faintly in the cool air. The buildings leaned together as if sharing secrets, their upper floors nearly meeting, shutting out the grey light. Rome had its slums, its Subura, but they teemed with a violent, familiar life. This was different. This was a place of quiet extrusion, where people were a byproduct of the industry, their faces closed and smudged with more than dirt.
 
 The taverna of Philo the Solver was called The Silent Anchor. Its sign was a rusted iron hook hanging from a chain, utterly still in the damp air. No painted boat, no cheerful amphora. Just a hook.
 
@@ -503,8 +500,7 @@ I looked at Ariston. His face was a mask of conflict. This was the descent he ha
 The rain pattered on the shells at our feet. It did not sound like a countdown now. It sounded like a slow, steady erosion.
 
 “I agree,” I said.
-
-Philo worked without haste. He sent Ariston back to the scriptorium to wait, to be our still, clean point of contact. “A man like you draws eyes in a place like this,” he said, not unkindly. Then he took me to a room above a fuller’s shop, a space that smelled of urine and chalk. It was not his home; it was a cell, containing only a pallet, a chest, and a small, exquisite map of Massilia drawn on vellum, pinned to the wall. The map was not of streets, but of influences, of territories. Different quarters were shaded in different inks, marked not with names but with symbols: a fish, a hammer, a key.
+  - Philo worked without haste. He sent Ariston back to the scriptorium to wait, to be our still, clean point of contact. “A man like you draws eyes in a place like this,” he said, not unkindly. Then he took me to a room above a fuller’s shop, a space that smelled of urine and chalk. It was not his home; it was a cell, containing only a pallet, a chest, and a small, exquisite map of Massilia drawn on vellum, pinned to the wall. The map was not of streets, but of influences, of territories. Different quarters were shaded in different inks, marked not with names but with symbols: a fish, a hammer, a key.
 
 “Barca’s color is ochre,” Philo said, pointing to a blotch near the eastern gate. “He controls the carcer through a Gaulish brute named Durix. Durix sells the healthy ones to the mines agent, a Roman called Gallus, who operates under a provincial license. The transaction will be tonight. Durix does not like to hold merchandise; it eats food and invites questions. Gallus is greedy and impatient. They will meet at the midnight bell, at the old shrine to Neptune near the dry docks. It is a quiet place. Durix will bring four men. Gallus, two. They will have the woman in a closed cart.”
 
@@ -523,8 +519,7 @@ The plan was a house of cards, a ridiculous mime played for lethal stakes. I fel
 “It is a transaction,” Philo corrected, his slate eyes steady. “You are trading your dignity for her life. A fair price. Now, rest. The night will be long.”
 
 I could not rest. I sat on the pallet, the stink of the fuller’s chemicals in my nose, and stared at the map. I was no longer in Massilia. I was inside a diagram of power, a game board where I was not a player, but a piece to be moved, a sound to be made. This was the exile’s true diaspora: not just a scattering from a place, but a fragmentation of the self. I was becoming a series of roles—the letter-writer, the conspirator, the drunk, the distraction—none of them whole, none of them Roman. The rain on the roof was a quiet applause for the performance.
-
-An hour before midnight, we moved. The rain had softened to a mist that hung in the alleys like a shroud. Philo draped one of the dark cloaks over me, its hood obscuring my face. We were two shadows flowing through the deeper shadows, our footsteps silent on the wet cobbles. He moved with an unsettling certainty, pausing at intersections not to look, but to listen, his head cocked like a hound’s.
+  - An hour before midnight, we moved. The rain had softened to a mist that hung in the alleys like a shroud. Philo draped one of the dark cloaks over me, its hood obscuring my face. We were two shadows flowing through the deeper shadows, our footsteps silent on the wet cobbles. He moved with an unsettling certainty, pausing at intersections not to look, but to listen, his head cocked like a hound’s.
 
 We came to a stop in our designated alley, a slit of darkness that smelled of decayed wood and rat droppings. From here, we had a slivered view of the shrine’s clearing. The shrine itself was a crumbling aedicula, a niche holding a weathered, faceless statue of the god. A single oil lamp guttered at its base. The closed cart, a simple wooden box on wheels, was already there, two hulking shapes leaning against it. Durix’s men. Across the clearing, I could just make out the shapes of Gallus and his attendant, standing beside a mule. The transaction was in its prelude.
 
@@ -584,11 +579,13 @@ He turned and walked toward the fuller’s door, not looking back. Elissa limped
 
 I stood for a moment in the overflowing courtyard, the misty rain on my face. The hook for the next chapter was not a sound, but a direction: down. Into the dripping, ancient dark that lay beneath the stones of Massilia, where the true weight of the city, and of our exile, waited to be faced. The cistern’s overflow was a quiet, desperate murmur, a voice from the deep, calling us in.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The dark beneath Massilia was not an absence. It was a substance. It had weight and taste and breath. It was the city’s forgotten lungs, a slow, wet inhalation of stone and stale time. We entered through a crack in the world—a collapsed section of sewer wall behind a potter’s yard whose kilns had long gone cold. The smell was not of waste, but of mineral decay, of water grown old in the company of rock. Philo went first, a shadow dissolving into a greater shadow. Then Elissa, her movements stiff but silent. I followed, and the night above sealed itself behind us.
 
@@ -730,11 +727,13 @@ I looked at Elissa, who had risked everything for a truth that might now be trim
 
 We had the reward. The silver, the man, the vindication. But the victory had been won in the deep places, with the tools of the exiled. The world above would want to claim it, reshape it, make it its own. The true ordeal was over. The next one, I realized, was just beginning. It would be fought not in the dark, but in the blinding light of day, over the shape of the truth we had pulled, bleeding, from the stone. The hook was the telling.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The dawn was a liar. It painted the cove in soft, forgiving pastels, turning the blood on our hands to rust, the sweat to dew. The liburnian, a sleek, predatory shadow against the peach-colored sky, was not salvation. It was an exchange. We were trading the honest, wet dark of the cistern for the dry, complicated light of the world.
 
@@ -757,8 +756,7 @@ Philo joined us, smelling of cistern-damp and cold iron. He held two clay cups, 
 But I saw the flicker in his solver’s eyes. Gratitude was a liquid asset. It could be spilled, diluted, redefined. The solid thing was the silver he had been promised, now secured in a chest under the watch of his most stone-faced man. His work was done. Ours was entering a new phase.
 
 The liburnian’s oars dipped, a coordinated whisper, and we slid away from the wild cliff face, toward the ordered stone of the main harbor. The journey was short, silent but for the creak of wood and the cry of gulls. Our little victory, so absolute in the underground dark, was already unspooling in the light, becoming something negotiable.
-
-The quay was not the public bustle of the commercial docks, but a sleek finger of pale limestone, serving the villas that clung to the southern slope. A man waited, flanked by two legionaries in polished, un-dented lorica. He was not the Proconsul, but his shadow: a scribe named Gallus, with the lean, hungry look of a clerk who has learned the taste of real power. His eyes, the color of stale water, passed over Philo, dismissed Elissa, and settled on me.
+  - The quay was not the public bustle of the commercial docks, but a sleek finger of pale limestone, serving the villas that clung to the southern slope. A man waited, flanked by two legionaries in polished, un-dented lorica. He was not the Proconsul, but his shadow: a scribe named Gallus, with the lean, hungry look of a clerk who has learned the taste of real power. His eyes, the color of stale water, passed over Philo, dismissed Elissa, and settled on me.
 
 “The Proconsul is grateful for your… vigorous assistance,” Gallus began, his Latin too perfect, each word placed like a tile in a mosaic. “The recovery of the stolen goods and the apprehension of this malefactor will be noted.”
 
@@ -783,8 +781,7 @@ Gallus produced a wax tablet. “Your statements, for the record. A simple accou
 The bribe was as elegant as it was blatant. Our silence, our compliance with the narrative, in exchange for a little comfort in our exile. A permit to stay in the cage. Philo gave an almost imperceptible nod. This was the transaction he had expected.
 
 I took the stylus Gallus offered. The bone felt alien in my hand. I looked at the blank, creamy wax, waiting to be scarred with the acceptable version. I thought of the letter to Lucius I would never send, of the sour wine, of the taste of regret. This was its institutional cousin. I began to write the lies.
-
-We were not back in my rented room for two hours before the reaction began.
+  - We were not back in my rented room for two hours before the reaction began.
 
 It started with the silence. The usual murmur of the neighborhood—the potter’s wheel next door, the fishmonger’s cry from the lane—ceased, as if sucked from the air. Elissa, cleaning the wound on my ribs with wine that stung worse than the blade had, went still, her hands hovering.
 
@@ -817,8 +814,7 @@ The crowd became a maze, then a trap. We shoved through, earning curses and blow
 “Split up. They want you two most. Meet at the shrine of the foreign goddess, in the Cypress Grove. Go!”
 
 He shoved me down a reeking alleyway just as two of the pursuers crashed into the crowd behind us. I ran, blind with pain and panic, the taste of the seawater wine like bile in my throat. The city, my place of exile, had turned animate and malevolent. Every corner hid a threat, every doorway a potential dead end. I was a rat in a wall, and the terriers were in.
-
-I found the Cypress Grove as the sun began to bleed into the west. It was a small, melancholy stand of trees on a barren hillock outside the city wall, dedicated to some forgotten deity from the east. The air was still, fragrant with resin and dust.
+  - I found the Cypress Grove as the sun began to bleed into the west. It was a small, melancholy stand of trees on a barren hillock outside the city wall, dedicated to some forgotten deity from the east. The air was still, fragrant with resin and dust.
 
 Elissa was already there, her back against the largest trunk, her face ashen. She was not alone.
 
@@ -849,8 +845,7 @@ His breath sighed out, a long, final release. The solver had solved his last equ
 We buried him there, under the foreign trees, in the un-consecrated earth. Durix used his sword to dig, and we laid Philo in the red dirt, covering him with stones to keep the animals away. There were no words. The cost of the ordeal was no longer an abstract concept. It was the weight of the stones in our hands, the smell of the turned earth, the absolute, echoing silence where a pragmatic, capable man had been.
 
 Elissa knelt by the grave for a long time. When she stood, her grief had been forged into something colder, sharper. “He said we live in the space between,” she said. “So we must build a fortress there.”
-
-We returned to the city under the cover of full dark, slipping through a postern gate Durix knew. He led us to a safe hole—a storage cellar under a perfumer’s shop, smelling of rose and myrrh and damp earth. It was there, by the light of a single, guttering lamp, that the full scope of the next move was revealed to us.
+  - We returned to the city under the cover of full dark, slipping through a postern gate Durix knew. He led us to a safe hole—a storage cellar under a perfumer’s shop, smelling of rose and myrrh and damp earth. It was there, by the light of a single, guttering lamp, that the full scope of the next move was revealed to us.
 
 Durix, his face grim, laid it out. He had stayed behind, listening, after Philo was struck. “Gallus is not just a clerk. He is the Proconsul’s… procurer of peace. He ensures the grain ships are not molested, the warehouses not torched, by arranging a monthly stipend to the men who could do those things. Barca was useful chaos, a mad dog they could point to while their own tame wolves ate well. With Barca gone, the balance is broken. The pack is restless. They want compensation for the lost business. Or a demonstration.”
 
@@ -874,11 +869,13 @@ Durix nodded slowly. “He has a villa. North of the city. He is… careful. But
 
 The hook for the next chapter was not a question of what to do, but of how deep we were willing to dig. We had fought in the physical dark of the cistern and won a tainted reward. We had fought in the blinding light of official lies and lost a friend. Now we would have to fight in the twilight between them, where truths were weapons and the only currency was ruin. The final ordeal would not be against a grieving monster or a pack of thieves. It would be against the elegant, smiling man who held the stylus that wrote the world, and the very idea that a story could be owned. We had to steal it back.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The rain in Massilia had turned conspiratorial. It no longer whispered; it murmured, a low, constant susurrus from the sea that spoke of comings and goings, of ships sliding into port under a shroud of grey, of secrets washed clean from the cobbles only to pool in the gutters, darker and more profound. It was the sound of a city holding its breath. My rented room, with its warped tablet and sour wine, felt like a confession I had already made. I was done writing letters I would never send. The only text that mattered now was the one we were inscribing on the city itself, with actions as our stylus and consequence as the wax.
 
@@ -899,8 +896,7 @@ Durix nodded. “The wall is low on the seaward side. The old man keeps two dogs
 The plan was simple, which was the only kind that had a chance. Simplicity had a straight back; it did not buckle under the weight of fear. We would enter the villa grounds, wait for Gallus in the colonnaded garden, and present our case not as a threat, but as an alternative accounting. We had the truth of the grain ship, the Isis, due in three days. We had the truth of Barca’s brother, and Philo, and the cistern. We had the truth of Gallus’s arrangement with the wolves of the hills—an arrangement that would collapse into spectacular, career-ending disgrace if the Isis burned. Our leverage was not a dagger, but a ledger. We would offer him a cleaner sum: his help in securing the ship, in exchange for our silence and our lives. A tidy transaction.
 
 I should have known that truth, in the hands of exiles, is never a currency. It is a contagion.
-
-The coastal path was a ribbon of mud and crushed shell. The rain had eased to a damp exhalation, the kind that beads on wool and soaks through to the skin with a patient, chilling insistence. The pines here were twisted by the wind into permanent gestures of supplication, their branches clawing at the low sky. We were ghosts in the twilight, Durix a pace ahead, his senses parsing the landscape for threat, Elissa and I following in his wake.
+  - The coastal path was a ribbon of mud and crushed shell. The rain had eased to a damp exhalation, the kind that beads on wool and soaks through to the skin with a patient, chilling insistence. The pines here were twisted by the wind into permanent gestures of supplication, their branches clawing at the low sky. We were ghosts in the twilight, Durix a pace ahead, his senses parsing the landscape for threat, Elissa and I following in his wake.
 
 We were seen.
 
@@ -931,8 +927,7 @@ Silence rushed in, broken only by the hiss of rain on pine needles and the ragge
 “No,” Durix said, wiping his blade on a dead man’s cloak. His face was a mask of cold fury. “He knows we were here. He will be at the villa. It is his sanctuary. He will feel safe behind its walls, with his deaf friend and his game of latrunculi. He will think his wolves have bought him another evening of peace.” He looked at the bodies, his expression unreadable. “We have just made the price of that peace more expensive.”
 
 Elissa retrieved her knife from the mud. Her hands were shaking, but her voice was stone. “We go. Now. Before he hears the cost.”
-
-The Villa of the Nine Muses was a long, low silhouette against the leaden sheen of the sea. Oil lamps glowed in its few windows, tiny, defiant suns in the wet gloom. The wall was indeed low, and the dogs were indeed fat. Durix’s offered bread was swallowed with grateful, snuffling gulps, and they followed us with wagging tails, hoping for more, not barks.
+  - The Villa of the Nine Muses was a long, low silhouette against the leaden sheen of the sea. Oil lamps glowed in its few windows, tiny, defiant suns in the wet gloom. The wall was indeed low, and the dogs were indeed fat. Durix’s offered bread was swallowed with grateful, snuffling gulps, and they followed us with wagging tails, hoping for more, not barks.
 
 The garden was a testament to neglected order. Box hedges had grown shaggy, and the statues of the Muses were pitted by salt air, their smiles eroded into grimaces. Under a covered colonnade, by the light of a bronze lamp, two men sat over a latrunculi board. The ivory pieces gleamed. One man was ancient, his head cocked like a bird’s, a hand cupped behind his ear. The other was Gallus.
 
@@ -999,8 +994,7 @@ Gallus looked from Durix to Elissa to me. He saw not supplicants, not blackmaile
 “Then you will be on the second tide.” He placed the warrior piece in his palm and closed his fist around it. “The story ends with you gone.”
 
 We had won. We had secured the grain, justice of a sort, and a thread of safety for the innocent. We had transformed our truth from a weapon of destruction into a tool of repair. We had chosen the greater good over the gold, the poem over the account book. As we left the villa, the rain feeling like a baptism, I felt the strange, hollow lightness of it. We were heroes. And we were utterly, profoundly damned.
-
-The news of the arrests spread through Massilia like a cleansing wind. The pack leaders, dragged from a dockside tavern, were a public spectacle. Gallus was praised for his vigilance. The city breathed easier. Barca’s woman and child vanished from their tenement, becoming two more unseen souls in the diaspora of the wronged.
+  - The news of the arrests spread through Massilia like a cleansing wind. The pack leaders, dragged from a dockside tavern, were a public spectacle. Gallus was praised for his vigilance. The city breathed easier. Barca’s woman and child vanished from their tenement, becoming two more unseen souls in the diaspora of the wronged.
 
 We watched the Isis from a high cliff east of the port, at dawn on the third day. The sky was the color of a fresh bruise, bleeding gold at the edges. The great grain ship, its sail a tired ochre, rounded the headland, escorted by two sleek Liburnian galleys flying the Proconsul’s standard. No wolves emerged from the coves. The sea was empty. The ship slid into the great harbor, a giant coming home to feed its child. The deed was done.
 
@@ -1020,11 +1014,13 @@ He looked not at the vanishing city, but south, across the endless, shimmering w
 
 The final ordeal had never been about Gallus, or truth, or grain. It had been about the stories we carried in our bones, the ones that refused to be rewritten. We had fought the monster in the dark and the liar in the light. Now we would have to sail toward the oldest monster of all: the one waiting for you where you began, in the place you can never truly leave. The chapter of exile was closing. The chapter of reckoning was about to begin.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The sea south of Massilia was a liar. It sparkled, a vast, benign plain of beaten silver under a sun that felt newly forged. It promised fair passage, a clean line from one world to the next. But I knew better now. The sea was just another kind of exile, a fluid, trackless diaspora that erased your past with every mile and offered nothing in return but the horizon’s empty promise. It didn’t care about your story. It only listened to the wind.
 
@@ -1057,8 +1053,7 @@ The past, I thought, keeps its own ledgers. It did not accept noble gestures as 
 He looked south, toward the invisible coast of Hispania. “To look me in the eye. To hear the sound of her son’s name in the voice of the man who let him die. That is all. And that is everything.”
 
 The hook was not in the city we left behind. It was in the man, and the debt etched in clay. We were not sailing toward a place, but into the silent, accusing eye of a story that had been waiting twenty years for its final line.
-
-Scene 1
+  - Scene 1
 
 Carthago Nova was Rome with a sunburn. The same grid of streets, the same clamor of forums and baths, but the light was harsher, the colors more vivid—garish splashes of vermilion and saffron from the dye-works, the air spiced with cumin and paprika and the underlying, never-forgotten smell of fish. It was a city built by Carthaginians, conquered by Romans, and populated by everyone else. A city of exiles making a home on the bones of someone else’s home. It felt like a perfect place for a reckoning.
 
@@ -1095,8 +1090,7 @@ At the end of the street, leaning against the wall of a wine shop, was a man. He
 “I know the type,” Durix murmured, slipping the pouch inside his tunic. “The kind of man the diaspora employs to do the work that prosperity cannot. The kind who settles accounts that kindness writes off.” He took a deep breath, and the hollowed look was gone, replaced by the cold, assessing clarity I knew. “The receipt was not the token. The token was the bait. The reckoning is not with the past. It is with its very interested representative in the present.”
 
 The showdown was not here, in the sun-drenched street. It had been scheduled for another time, another place. We had walked into the familiar world only to find it had been sold to new management.
-
-Scene 2
+  - Scene 2
 
 We did not run. Running in a foreign city marks you as prey. Durix led us to a taverna he knew from his trading days, a cavernous place near the grain warehouses where the air was thick with the smell of baking bread and spilled beer. It was loud, crowded, anonymous. We took a table in a corner where the wall met a rough-hewn pillar, our backs protected.
 
@@ -1159,8 +1153,7 @@ This was the direct confrontation. Not with swords yet, but with the inevitable 
 “You mistake me, Mago,” Durix said, his voice carrying clearly now. “I did not come for forgiveness. I came to discharge my duty. To look into the eye of what I lost. That duty is done. You are not my past. You are a vulture circling it. And I do not negotiate with carrion eaters.”
 
 It was a magnificent line. A hero’s line. And in that moment, as Elissa’s bowstring twanged and my hand tightened on my sword, I believed we had him. We had learned the rules of this grey world, and we were utilizing all of it.
-
-Scene 3
+  - Scene 3
 
 Elissa’s arrow took the man on the left high in the shoulder, spinning him around with a grunt. I was already moving, closing the distance to the second, my shorter blade meant for the crush of bodies, not the open dock. Durix and Mago had drawn their swords, the ring of iron on iron sharp in the salt air.
 
@@ -1193,8 +1186,7 @@ Durix staggered back, blinded, coughing violently. The heroic stance was broken.
 Durix wiped at his eyes, the red powder staining his skin like bloody tears. He was defeated. Not by the sword, but by the revelation. The story he carried in his bones—the story of a lost son, a failed duty, a debt to a grieving mother—had been rewritten into a sordid tale of emotional speculation. The antagonist had won by revealing that the protagonist’s sacred wound was just another ledger in a vast, heartless exchange.
 
 Mago raised his sword for a final, unhurried thrust. “The chapter of exile closes now. With a balanced sheet.”
-
-Scene 4
+  - Scene 4
 
 I was already moving, but I was too far. Elissa’s second arrow was nocked, but Mago was too close to Durix, the angle wrong.
 
@@ -1229,8 +1221,7 @@ He walked to the edge of the dock, took a waterskin from his belt, and poured it
 The antagonist was defeated. Not the ghost of Carthage, not the guilt for a lost boy, but the parasitic idea that his pain was not his own. He had reclaimed his story from the merchants of memory.
 
 We left the body in the water. Let the sea, that great, indifferent exile, have him. We walked back through the darkening streets of Carthago Nova, a city of exiles. We did not look back. The past had presented its bill, and we had paid it in full, on our own terms. The chapter of reckoning was over.
-
-On the third day in Carthago Nova, as we prepared to book passage east—to anywhere—a messenger boy found us at our inn. He handed Durix a small, sealed scroll of papyrus, then darted away.
+  - On the third day in Carthago Nova, as we prepared to book passage east—to anywhere—a messenger boy found us at our inn. He handed Durix a small, sealed scroll of papyrus, then darted away.
 
 Durix broke the seal. He read it, his expression unreadable. Then he passed it to me.
 
@@ -1266,11 +1257,13 @@ The final ordeal was over. We were heroes, unburdened, ready for a new beginning
 
 So why did the silence around our prospective ship feel so much like the quiet in the eye of a storm?
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The silence after a storm is a liar. It pretends to peace, to a settling of accounts. In the bruised light of a Massiliot dawn, with the rain retreated to a damp sheen on the cobbles and a mist rising from the harbour like a slow exhalation, the lie was almost convincing. The Cygnet floated at her berth, no longer a promise or a prison, but a fact. Her lines were clean against the grey water, her deck empty. Waiting.
 
@@ -1287,8 +1280,7 @@ Elissa traced the grain of the table with a fingertip. “What is a ship without
 This was the wreckage. Not of battle, but of narrative. We had been actors in a play of our own desperate design—the wronged exile, the honourable thief, the merchant’s daughter fleeing a gilded cage. The curtain had fallen. The audience—Anath, his network, the spectre of Rome—had departed. Now we stood on a bare stage with our props: a ship, a sea, a choice. The emptiness was vertiginous.
 
 The mechanisms, I thought. They develop a momentum of their own.
-
-By midday, the news had seeped through the port quarter like the damp. It came not as proclamation, but as rumour, reshaped with each telling. The Roman collector, a man of shadow and substance, was gone. Vanished. Some said recalled to Rome in disgrace. Others whispered of a night-time settlement, a transaction so final it left no trace but a cold brazier. A few, with knowing looks, spoke of a woman from Carthage and a knife in the dark.
+  - By midday, the news had seeped through the port quarter like the damp. It came not as proclamation, but as rumour, reshaped with each telling. The Roman collector, a man of shadow and substance, was gone. Vanished. Some said recalled to Rome in disgrace. Others whispered of a night-time settlement, a transaction so final it left no trace but a cold brazier. A few, with knowing looks, spoke of a woman from Carthage and a knife in the dark.
 
 The effect was subtle, a change in atmospheric pressure. The fishmonger on the quay, who had previously sold to Durix at a punitive markup, now threw in a handful of mussels. The rope-seller nodded, once, as we passed. It was not gratitude. It was the re-calibration of a system. A troublesome variable had been removed; equilibrium, of a sort, was restored. We were no longer carriers of contagion. We were, perhaps, agents of a vague, unsanctioned justice. Heroes by acclimation, of the quietest kind.
 
@@ -1325,8 +1317,7 @@ He leaned on the railing beside me. Below, two cats moved through the shadows wi
 He was silent for a long time. “I have been a tool in the hand of a Republic, and a counter in the game of a collector. I find I have no appetite to become a merchant in the ledger of the world.” He turned his head. “You burned her letter. But you memorized it first. ‘The mechanisms… developed a momentum of their own.’ You feel it, too. We did not slay a beast. We pruned a branch. The root remains.”
 
 The melancholy of the hero is the understanding that victory is not an end, but a change of state. We had been acknowledged, subtly, quietly. We had been given a place, however provisional. And the weight of it was heavier than the pursuit.
-
-Loose ends are not threads to be tied; they are currents to be followed to their source, or severed with finality.
+  - Loose ends are not threads to be tied; they are currents to be followed to their source, or severed with finality.
 
 For Elissa, the resolution was pragmatic, and bore the shape of a contract. The Neapolitan factor, a shrewd man with a smile that never reached his eyes, agreed to her terms. The Cygnet would carry his goods. She would be master of the run, hiring the crew, taking the lion’s share of the profit against a charter fee. She showed us the papyrus in the inn’s common room, her finger resting on the clause that named her naukleros.
 “It is a start,” she said, and for the first time since the dock, her face held not the grim set of endurance, but the keen focus of construction. “From here, we build. A second ship. A third. A network that does not feed on men, but on trade.” Her eyes were on a horizon only she could see. Her cage had been gilded, then shattered; now she would build her own vessel, and her own destiny would be the cargo. It was a clean, solid end. A new beginning forged in the sensible fire of commerce.
@@ -1349,8 +1340,7 @@ I stood at the stern, looking back at the jagged silhouette of Massilia, the lam
 But I was not a hero returning. I was an exile, still. I had merely changed the geography of my exile from a city to a ship. The mechanisms Anath spoke of—the vast, impersonal engine of debt, obligation, power, and consequence—had not been dismantled. We had removed one cunning operator. The machine hummed on, in Rome, in Carthage, in the factoring houses of Neapolis, in the very trade routes Elissa coveted. It was the water in which we all swam. To sail away on the Cygnet was not to escape it, but to carry a tiny piece of it with us, to become a smaller, mobile subsidiary of the same vast, invisible firm.
 
 The silence around the ship was not peace. It was the quiet of the engine at idle. Waiting for a new hand on the lever, a new will to direct its momentum.
-
-The pivotal decision is rarely made in a thunderclap of insight. It condenses, like the fog, from the cold, saturated air of accumulated truth.
+  - The pivotal decision is rarely made in a thunderclap of insight. It condenses, like the fog, from the cold, saturated air of accumulated truth.
 
 I found Elissa at dawn, on the dock, a manifest scroll in her hands. She was already the master, calculating, planning.
 “Durix is gone,” I said.
@@ -1386,11 +1376,13 @@ The Cygnet’s lines were cast off. The sail, catching the evening land-breeze, 
 
 We were free of the past. And we had just enlisted in a war with the present. The first entry in our new, secret ledger was written not in ink or wax, but in the wake spreading behind us, a pale, dissolving scar on the face of the deep.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The sea at night, beyond the sight of land, is a different scripture. In the coastal roads, it is written in the familiar hand of currents and headlands, a text you can recite by rote. Out here, in the true deep, it is written in a language of moving darkness and colder winds, a tongue of abyssal grammar and star-lit punctuation. The Cygnet no longer creaked with the indolent complaints of a vessel at rest. She spoke now in the active tense, a lexicon of strain and release, of timber working against water, a conversation as old as drowned mountains.
 
@@ -1560,11 +1552,13 @@ We had happened to Secundus. We had happened to the storm. We were a happening n
 
 That night, as I took my watch under a canopy of unfamiliar southern stars, I felt not peace, but a profound alignment. The hook was no longer a question of what would happen to us. We were the happening. The next question, the one that pulled at the edge of my mind like a tide, was what, or who, we would happen to next. And what, when the time came, we would choose to leave behind in our pale, dissolving scar of a wake.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The rain in Massilia was a different animal. It always would be. I knew that now, standing on the balcony of a house that was mine, watching it arrive once more from the grey mouth of the sea. It was the same wet, salt-laced gossip, whispering against the terracotta tiles I had replaced, finding fewer cracks. It carried the same smell of wet pine from the hills, but the iron tang of the docks was now layered with the scent of my own courtyard garden: rosemary, thyme, and the faint, sweet promise of the lemon tree I’d nursed from a cutting.
 
@@ -1682,11 +1676,13 @@ We were what we had chosen to happen next. And the next tide was always coming.
 
 The rain in Massilia was a different animal. It was not an interruption. It was the breath of the world we had chosen, and we had learned, at last, to breathe with it.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The warehouse in the eastern quarter of Massilia smelled of betrayal. It was a specific scent, layered beneath the omnipresent salt and fish: the sour tang of grain gone to weevil, the dry, accusing dust of empty amphorae, and the cloying sweetness of spoiled Rhodian wine, a libation poured for forgotten gods. The air was still, a prisoner of the high, slit windows and the mountainous stacks of crates. It was the antithesis of the sea’s breath; this was the lung of commerce, holding its breath, waiting for a price to shift.
 
@@ -1796,8 +1792,7 @@ As we stood to make our way down the winding path, she slipped her hand into min
 “I know that, too.”
 
 “But the chart,” she said, squeezing my hand once, “is ours to draw.”
-
-The Cygnet departed in the pearl-grey light before sunrise, its sails pale ghosts against the departing night. I stood on the quay, not as a passenger, but as an owner. The captain, a gnarled Massilian with a face like a nautical chart, gave me a curt nod. The ship was an extension of his own body; my presence on his deck during a routine run would be an affront. I respected that. My work was here, on the land, in the realm of whispers and numbers.
+  - The Cygnet departed in the pearl-grey light before sunrise, its sails pale ghosts against the departing night. I stood on the quay, not as a passenger, but as an owner. The captain, a gnarled Massilian with a face like a nautical chart, gave me a curt nod. The ship was an extension of his own body; my presence on his deck during a routine run would be an affront. I respected that. My work was here, on the land, in the realm of whispers and numbers.
 
 I spent the day in the warehouse, but it felt different. It was no longer Gallus’s silent, dusty temple. It was a field of intelligence. I examined the crates of linens, noting the weaver’s marks from Toletum. I inspected the seals on the garum jars, not for breakage, but for the insignia of the figlina near Carthago Nova. Each mark was a word in a language I was learning to speak. I spoke to the stevedores, not about schedules, but about the men who loaded other ships, the ones that flew no particular flag, that took on odd, small consignments after dark. I bought them cups of wine that tasted of regret and poor decisions, and I listened to their gossip, which was a richer, more truthful ledger than any Gallus possessed.
 
@@ -1851,11 +1846,13 @@ And in a dim tavern near the docks, a Corinthian captain, his head aching from w
 
 The next tide was always coming. And we were no longer just waiting for it. We were learning to be the tide itself.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The city’s awakening was a series of small, percussive truths. The potter’s shutters, the donkey’s complaint, the watchman’s cry—these were not the grand mechanisms of the Forum, the clash of gears and ambition. They were the sounds of a place that had never known an aqueduct, that drew its water from cisterns and its fortune from the grudging sea. It was a music of necessity. We had chosen to listen to it. Now, we had to learn its grammar.
 
@@ -1954,8 +1951,7 @@ A long exhale. “The port master at the Stoechades is his cousin by marriage. A
 
 “Agreed.”
 Lykos nodded, once. A transaction, complete. “Then we are a current.” He said it without poetry, a simple statement of mechanics. “A weak one. But a current.”
-
-Elissa returned at dusk. She brought the smell of the docks with her, of tar and ripe fish, but also the scent of almond oil and dried figs. She had been shopping, a performance of normalcy. In her basket, beneath the food, was a scrap of papyrus.
+  - Elissa returned at dusk. She brought the smell of the docks with her, of tar and ripe fish, but also the scent of almond oil and dried figs. She had been shopping, a performance of normalcy. In her basket, beneath the food, was a scrap of papyrus.
 
 “Lykos is secured?” she asked, lighting a single lamp. The room held the day’s chill.
 
@@ -2008,11 +2004,13 @@ The pieces were on the board. We had moved the first one.
 
 Now, we had to wait for our opponent to look down from his great height, to notice the game had begun, and to make his counter-move. He would. It was his nature. And when he did, we would finally see the shape of the thing we had truly set in motion—not just a market, but a war, fought not with swords, but with invoices, and whispers, and the profound, unsettling power of a better price.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The waiting was a kind of weather. It settled over the modest house near the spice market, a pressure as tangible as the damp that bloomed on the walls. It had a taste, this waiting: the stale aftertaste of the cheap, resinous wine Dion poured and re-poured, and beneath it, the acrid ghost of the saffron his brother-in-law would never again weigh out on his bronze scales. The ruin was complete. It was a finished thing, a closed ledger. All that remained was the ink, which was vengeance, and the parchment, which was Massilia.
 
@@ -2073,8 +2071,7 @@ I nodded. “From the mouth of a man who has no apparent axe to grind. A disgrac
 A faint, grim smile touched Dion’s lips. It was the first expression I had seen on his face that was not grief or fury. It was the smile of a man appreciating a complex, elegant tool. “You would be the whisper.”
 
 “I am already the whisper,” I said. “I am the draft from the crack in his wall. Let him feel it.”
-
-The Cygnet returned with the dawn, slipping into its berth like a thief returning home. It wore the sea’s evidence: salt-crusted ropes, sails darkened by a recent wetting, a new scar of pale wood on its port bow where a squall had introduced it to a floating log. It had not been an easy voyage, but it had been a complete one. The islands had been visited, the contacts made, the prices quoted. The first thread of our alternative web was spun.
+  - The Cygnet returned with the dawn, slipping into its berth like a thief returning home. It wore the sea’s evidence: salt-crusted ropes, sails darkened by a recent wetting, a new scar of pale wood on its port bow where a squall had introduced it to a floating log. It had not been an easy voyage, but it had been a complete one. The islands had been visited, the contacts made, the prices quoted. The first thread of our alternative web was spun.
 
 I met Cassia at the dockside. She stood apart from the bustle of unloading, watching the crew with the assessing eye of a general surveying tired but victorious troops. The morning light was thin, hesitant, but it caught the fine lines at the corners of her eyes, lines etched by salt and calculation.
 
@@ -2123,8 +2120,7 @@ The plan was no longer a sketch. It was a mechanism, each piece a person, a skil
 “We have given the tide a direction,” I said, echoing her words from the night before.
 
 “Now we give it a teeth,” she finished.
-
-The woman’s name was Elen. She lived not in a hut, but in a cave that had been made a home, where the living rock formed one wall and a careful drystone construction the others. The air inside was warm, thick with the smell of charcoal and earth and a strange, ozonic tang of worked metal. A small, fierce fire glowed in a pit, and above it, a clay crucible sat like a patient god.
+  - The woman’s name was Elen. She lived not in a hut, but in a cave that had been made a home, where the living rock formed one wall and a careful drystone construction the others. The air inside was warm, thick with the smell of charcoal and earth and a strange, ozonic tang of worked metal. A small, fierce fire glowed in a pit, and above it, a clay crucible sat like a patient god.
 
 She was small, with wrists like bird bones and forearms corded with muscle that spoke of a lifetime at the bellows. Her hair was the colour of iron rust, streaked with grey, tied back with a strip of leather. She listened to Cassia’s request without looking at her, her eyes on the fire, as if reading the flames.
 
@@ -2155,8 +2151,7 @@ As we walked down the winding path, Cassia spoke softly. “She will do it. Not 
 “For the story,” I said.
 
 “For the wound,” Cassia corrected. “She is making a wound that will not heal. She understands that better than any of us.”
-
-The three days of waiting were a taut wire. Massilia went about its business. The Saturnia sailed on the evening tide, its captain blissfully unaware of the future taking shape in a hillside cave. Gallus’s men were visible in the agora, in the customs house, their presence a low, constant pressure. They were not looking for us. Not yet. They were simply being seen, a reminder of the prevailing weather.
+  - The three days of waiting were a taut wire. Massilia went about its business. The Saturnia sailed on the evening tide, its captain blissfully unaware of the future taking shape in a hillside cave. Gallus’s men were visible in the agora, in the customs house, their presence a low, constant pressure. They were not looking for us. Not yet. They were simply being seen, a reminder of the prevailing weather.
 
 I spent hours in the rented room, writing letters I would never send. The practice had become a ritual, a way to clarify thought. The stylus scratched on the wax.
 
@@ -2183,8 +2178,7 @@ I took the ingot. It was heavier than it looked, cold with a profound, inner col
 “It is perfect,” I said.
 
 She nodded, satisfied. “It is true. Now go and make your lie.”
-
-The mechanism was in motion. The Saturnia was on the sea. The poisoned seed was in my possession. Cassia’s Syrian was waiting in Ostia. Dion’s network was primed to listen for the first tremor of doubt.
+  - The mechanism was in motion. The Saturnia was on the sea. The poisoned seed was in my possession. Cassia’s Syrian was waiting in Ostia. Dion’s network was primed to listen for the first tremor of doubt.
 
 All that remained was to wait for the pieces to converge. To wait for our opponent to look down.
 
@@ -2214,11 +2208,13 @@ And when he did, he would not see a market, or a war of invoices. He would see a
 
 Or to let the whole edifice split open.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The flaw was in the metal. That was the clean, hard truth of it. But a flaw, like a rumour, is only a seed. It requires the right soil, the specific, cultivated rot of human affairs, to sprout. The Saturnia was still a week from Ostia, a speck on the wine-dark sea, its cargo of fabricated doom resting in the dark, indifferent hold. Here, in Massilia, we had entered the season of germination. A quiet, watchful rot of our own.
 
@@ -2482,11 +2478,13 @@ The thread was pulled. The flaw was revealed.
 
 And now, in the silence after the shout, I could hear it: the sound of the tapestry, not just unravelling, but being cut from the other side by a hand we had never seen.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The silence in the sail-maker’s loft after the hooded man dissolved was a physical thing, thick as the resinous Gallic wine I had come to despise. It swallowed the distant, receding clamor from the dock. Below us, the story was a living creature now, scampering through the wet alleys on a thousand tongues, growing wilder and more certain with each telling. We had set it free. But the cold, professional scrutiny that had just passed over our hiding place was a different kind of truth. It did not gossip. It recorded.
 
@@ -2515,8 +2513,7 @@ The lead weight of Calpurnia’s warning settled deeper. Watch the watchers. We 
 “Where?”
 
 “The one place in Massilia that is not Massilia,” he said. “The Liburnian’s berth.”
-
-The Sea-Hare was not a place; it was a condition. A state of damp, creaking suspension between the Roman world and the barbarian void. Tied up at a secondary wharf used for curing nets and repairing fishing smacks, it seemed to draw the darkness and the chill mist around itself like a cloak. The gangplank was a treachery of wet wood. The deck, when we boarded under the cover of a fresh, whispering rain, was a slick map of coiled ropes and nameless, tarred lumps.
+  - The Sea-Hare was not a place; it was a condition. A state of damp, creaking suspension between the Roman world and the barbarian void. Tied up at a secondary wharf used for curing nets and repairing fishing smacks, it seemed to draw the darkness and the chill mist around itself like a cloak. The gangplank was a treachery of wet wood. The deck, when we boarded under the cover of a fresh, whispering rain, was a slick map of coiled ropes and nameless, tarred lumps.
 
 The Liburnian emerged from the aft cabin as if conjured by our trespass. He held a gutting knife in one hand and a mackerel in the other. Silver scales glinted on his thumb. He looked from Varro to me, his eyes reflecting the lone storm-lantern like chips of obsidian.
 
@@ -2722,11 +2719,13 @@ And the hooded man was not Gallus’s creature.
 
 He was a weaver. And we had just handed him a new strand.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The wind off the hills was a blade, honed on the high passes and whetted by the miles of dark, empty road the courier had taken. It carved through the gaps in the tomb’s stones, a low, tuneless whistle that was the only sound in the world. The scent it carried had changed. No more wet pine, no salt. Just cold stone dust, and the dry, ancient smell of a land that had forgotten Rome.
 
@@ -2938,11 +2937,13 @@ And the certain knowledge that Gallus’s knife, and the system’s indifferent 
 
 The hook for the next chapter was not a mystery. It was a countdown. The sun was climbing. The port gates would be watched. The roads would be watched. The beast was stirring. And we had until nightfall to disappear from a city that had become its gullet.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The sun on our backs was a liar. It promised warmth, clarity, a world defined by light and shadow. But the light here was thin, bleached of meaning, and the shadows it cast were shallow, hiding nothing. True darkness, I was learning, did not lurk in alleys. It operated in the open, in the transaction of a coin, the stamp of a customs seal, the polite inquiry of a port official. It was a system. And we were on its menu.
 
@@ -3138,11 +3139,13 @@ The system had us. We were no longer on the menu.
 
 We were on the payroll.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The sea was a different animal. For three days it had been a flat, metallic plate, a dull expanse that reflected the cloud-choked sky and offered no horizon. The Dolphin moved across it with a weary, creaking purpose, a beetle on a slate. The work was a rhythm, a liturgy of mundane survival: tally, stow, eat the thin fish stew that tasted of tar and apathy, sleep in the fug of the forward hold with the off-watch crew. We were a function. A moving part. The dread I had felt leaving Massilia had not abated, but it had calcified, becoming a cold, familiar stone in my gut. This was the price of transit: a numbed acceptance of the pipeline’s walls.
 
@@ -3236,11 +3239,13 @@ The question waiting for us in Tingis was no longer what we would have to become
 
 It was whether we could become it fast enough, and well enough, to be believed.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The wind off the strait was a liar. It promised the clean, empty expanse of ocean, the scouring breath of the deep. But Tingis, clinging to its African rock, exhaled a different truth. The breeze that met us at the stone quay was a composite. It carried the salt-rot of the harbor, the dry, cinnamon dust of the hills, and beneath it, like the bass note of a forgotten song, the hot, coppery scent of old blood from a hundred generations of sacrifices at the high place. Rome was here, in the clean lines of the new garrison fort on the eastern rise. But Rome was a guest, a loud and confident one, sitting uneasily on a chair that remembered other, heavier occupants.
 
@@ -3410,11 +3415,13 @@ The question waiting for us was no longer whether we could become the fiction fa
 
 It was whether we could break it, decisively enough, before it smothered us whole.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The clay tablet lay between us on the rough-hewn table, a cold, hard fact in the bruise-light of morning. It was not a summons. It was a diagnosis. The system had a fever, and the fever had a pressure, and the pressure now had our names written in the damp, salt-stained air of the room. Azul had not asked for a decision. He had presented a condition. A valve was closed. Hydraulics, whether of water or of human silence, abhorred a vacuum. Something would fill it.
 
@@ -3584,11 +3591,13 @@ The safe landing was gone. The cage door was open, revealing not freedom, but th
 
 We had until dark to find a hammer big enough to break a sealed god.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The clay tablet lay between us on the rough-hewn table, its single word a crater in the pale, fired earth. TONIGHT. It was not an instruction. It was a verdict. The trial had been conducted in whispers and hydraulic groans, and we, the accused, had been found complicit by our very presence. Our sentence was to become the executioners of a city’s vein.
 
@@ -3736,11 +3745,13 @@ And below it, two words.
 
 THE BALANCE.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The rain in Massilia was a different animal. It no longer whispered. It fell now on a broken city, a surgeon’s cold rinse on a dirty wound. It did not gossip; it judged, pooling in the new scars we had carved, finding the low places we had made. The smell was no longer wet pine and iron, but wet plaster, wet wool, the sour-milk stench of mud, and beneath it all, the clean, cold scent of released water.
 
