@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The rain in Massilia was a different animal. In Rome, rain was an interruption, a civic nuisance to be channeled away by brilliant, indifferent engineering. Here, at the ragged edge of the world, it was a presence. It didn’t fall; it arrived from the grey mouth of the sea, a wet, salt-laced gossip that whispered against the tile roofs and plaster walls of my rented room, finding every crack, carrying with it the smell of wet pine from the hills and the distant, iron tang of the docks.
@@ -91,6 +93,8 @@ It was manual labor. Intellectual drudgery. It was a thread thrown across an aby
 I sat on the cold floor and pulled the first scroll toward me. The papyrus was brittle, the Greek script a disciplined march of black ink. I unrolled it carefully. *Polybius of Megalopolis, on the rise of the Roman dominion…*
 
 The rain beat softly on the high, narrow windows. Ariston muttered to himself, pulling a volume from a shelf. I took a deep breath of the dry, scholarly air, and for the first time since the litter had carried me out of the Servian Wall, I had a task that did not involve contemplating the ruins of my own life. I began to read, to sort, to mend. The silence in the tower was not empty. It was filled with the ghosts of a thousand other voices, and for now, that was company enough.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -195,6 +199,8 @@ The old, cold anger returned, but it had a new companion: a chilling, clear-eyed
 I did not go back to my room. I walked to the sea wall and watched the grey water churn against the rocks. The diaspora here wasn’t just of people, but of loyalties, of selves. I had shed my Roman self like a skin, but the new one growing in this damp air was still raw, untested. I thought of the library, of the verbs of becoming. *To tear. To flow. To surpass.*
 
 I was not yet doing any of those things. I was waiting. And in Rome, they were not waiting. They were building, conspiring, *becoming*. The tension was no longer just within me, between past and present. It was a thread, thin and strong as a harp string, stretched taut across the sea between this rocky shore and the Palatine Hill, and someone in Rome was plucking it, sending a vibration of fresh malice all the way to my feet.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
